@@ -107,7 +107,7 @@ We just created a desktop launcher for scrcpy.
 
 - The **Type** value specifies that it is an application
 - The **Name** value is the name of the application
-- The **Categories** value places it in the *Development* category in our application menu. See [this post](https://specifications.freedesktop.org/menu-spec/latest/apa.html) for all the registered categories that can be used here or we can simply specify a custom one. 
+- The **Categories** value places it in the *Development* category in our application menu. See [this post](https://specifications.freedesktop.org/menu-spec/latest/apa.html) for all the registered categories that can be used here. 
 - The **Icon** value is used to set the icon for the launcher. Any `.png` or `.svg` file will work. Here we used an image called `scrcpy.png` which we placed in the `/usr/share/icons/` folder to make sure it never gets accidentally deleted.
 - The **Exec** value is where we specify our main `scrcpy` command along with all our custom options.
 
