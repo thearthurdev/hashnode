@@ -38,6 +38,8 @@ scrcpy
 This is what success looks like...
 ![terminal & device screen](https://cdn.hashnode.com/res/hashnode/image/upload/v1596005528020/Te7pWY04a.png)
 
+**Edit:** The `sudo apt install scrcpy` command is not avalilable on all debian linux systems. If it doesn't work for you I recommend visiting the [official repo](https://github.com/Genymobile/scrcpy) for alternate methods of installation before continuing with the post.
+
 ### But wait, there's more...
 Let's make running scrcpy even better by adding a few more options to the main command.
 
