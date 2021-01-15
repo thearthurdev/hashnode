@@ -1,7 +1,7 @@
 ## How to Migrate your WhatsApp Chats to Telegram
 
 ### Jumping Ship
-So you may have heard that WhatsApp is planning on sharing the data of users with its parent company Facebook with the choice to either [opt-in or delete your account](https://www.forbes.com/sites/carlypage/2021/01/08/whatsapp-tells-users-share-your-data-with-facebook-or-well-deactivate-your-account/?sh=1bc6a2e2d46c). Well, Telegram is one of the best alternatives to consider if you decide to do the latter.
+So you may have heard that WhatsApp is planning on sharing the data of its users with its parent company Facebook with the choice to either [opt-in or delete your account](https://www.forbes.com/sites/carlypage/2021/01/08/whatsapp-tells-users-share-your-data-with-facebook-or-well-deactivate-your-account/?sh=1bc6a2e2d46c). Well, Telegram is one of the best alternatives to consider if you decide to do the latter.
 
 
 >"But what about my precious conversations stuck on WhatsApp?? 😱😱😱"  
