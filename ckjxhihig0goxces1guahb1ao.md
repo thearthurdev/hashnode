@@ -102,7 +102,7 @@ If you wish to view the description and change some of the presets you can enter
 
 We aren't going to change any of the settings for this post so we can go ahead and enter "!C" immediately to begin the import.
 
-![Import complete](https://cdn.hashnode.com/res/hashnode/image/upload/v1610636623454/U0P8jLdEG.jpeg)
+![Import complete](https://cdn.hashnode.com/res/hashnode/image/upload/v1610706459727/T18VIg03i.jpeg)
 
 **C'est fini!**
 
