@@ -101,7 +101,7 @@ class TwinkleLittleStar extends StatelessWidget {
   }
 }
 ```
-#### Space: the final frontier.
+#### "Space: the final frontier."
 *oops, wrong franchise* 😅  
 Anyway, let's go ahead and generate a bunch of these stars in our `Space` widget.
 
@@ -596,7 +596,7 @@ class StarWarsIntroAnimation extends StatelessWidget {
 
 Below is a visual representation of the Staggered animation timeline. It shows the intervals of all the Tweens in relation to each other and to the total interval of the `AnimationController`.
 
-![Chart showing staggered animation timeline ](https://cdn.hashnode.com/res/hashnode/image/upload/v1612095236703/--DA-zYCV.png)
+![Chart showing staggered animation timeline ](https://cdn.hashnode.com/res/hashnode/image/upload/v1612300870979/ZW1shvrFd.png)
 
 **“Chewie, we’re home.” — Han Solo**
 
