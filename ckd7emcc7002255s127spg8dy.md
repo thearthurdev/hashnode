@@ -93,7 +93,7 @@ We'll create a desktop launcher that has a nice icon, that will be available in 
 
 First, let's create an empty file anywhere we can and name it `scrcpy.desktop`.
 
-The we'll open this file with a text editor and paste the following text in it;
+Then we'll open this file with a text editor and paste the following text in it;
 ```
 [Desktop Entry]
 Type=Application
